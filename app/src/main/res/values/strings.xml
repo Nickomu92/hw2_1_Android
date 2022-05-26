@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ДЗ №2.1 Муліна Миколи</string>
+    <string name="mi_create">Додати</string>
+    <string name="mi_delete">Видалити</string>
+    <string name="mi_update">Редагувати</string>
+    <string name="tv_lastname">Прізвище: </string>
+    <string name="tv_gender">Стать: </string>
+    <string name="tv_birthday">Дата народження: </string>
+</resources>
